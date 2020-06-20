@@ -1,0 +1,153 @@
+
+---Downloaded files---
+The import files for: Software Company Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://comicalweb.xyz
+Data file = /home/comicalweb/public_html/wp-content/uploads/rara-demo-pack/software-company-demo-content/content/softwarecompany.xml
+Widget file = /home/comicalweb/public_html/wp-content/uploads/rara-demo-pack/software-company-demo-content/content/softwarecompany.wie
+Customizer file = /home/comicalweb/public_html/wp-content/uploads/rara-demo-pack/software-company-demo-content/content/softwarecompany.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import rara_portfolio_categories Creative
+[WARNING] Failed to import rara_portfolio_categories Photography
+[WARNING] Failed to import rara_portfolio_categories Web Solutions
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import rara_portfolio_categories Creative
+[WARNING] Failed to import rara_portfolio_categories Photography
+[WARNING] Failed to import rara_portfolio_categories Web Solutions
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import rara_portfolio_categories Creative
+[WARNING] Failed to import rara_portfolio_categories Photography
+[WARNING] Failed to import rara_portfolio_categories Web Solutions
+
+
+---Importing content---
+[WARNING] Failed to import rara_portfolio_categories Creative
+[WARNING] Failed to import rara_portfolio_categories Photography
+[WARNING] Failed to import rara_portfolio_categories Web Solutions
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "MIA Poster": Invalid post type rara-portfolio
+[WARNING] Failed to import "Contact": Invalid post type wpcf7_contact_form
+[WARNING] Could not find the post parent for "StockSnap_F3H3B3FT7E(1)" (post #98)
+[WARNING] Could not find the post parent for "interior-design-1508276_1920(1)" (post #101)
+[WARNING] Could not find the post parent for "StockSnap_YCK0SQKB21(1)" (post #103)
+[WARNING] Could not find the post parent for "StockSnap_HGVQPNFUDV(1)" (post #107)
+[WARNING] Could not find the post parent for "StockSnap_LF9R66YM0J(1)" (post #109)
+[WARNING] Could not find the post parent for "StockSnap_I0CYW7MWNV(1)" (post #111)
+[WARNING] Could not find the post parent for "StockSnap_73UH22Y6VX(1)" (post #113)
+[WARNING] Could not find the post parent for "StockSnap_Z4HNLKWBAI(1)" (post #115)
+[WARNING] Could not find the post parent for "StockSnap_ITXLIWFJTY(1)" (post #116)
+[WARNING] Could not find the post parent for "StockSnap_ZIMOJEJQA3(1)" (post #120)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+raratheme_image_widget - Merissa Lohan - Site does not support widget
+raratheme_popular_post - Popular Post - Site does not support widget
+rtc_social_links - Subscribe and Follow - Site does not support widget
+rara_posts_category_slider_widget - Featured Today - Site does not support widget
+rtc_pro_twitter_feeds_widget - Recent Tweets - Site does not support widget
+Text - Software Company - Imported
+
+Services Section : 
+
+Text - Our Services - Imported
+rrtc_icon_text_widget - Planning - Site does not support widget
+rrtc_icon_text_widget - Super Ideas - Site does not support widget
+rrtc_icon_text_widget - SEO &amp; Advertising - Site does not support widget
+rrtc_icon_text_widget - Responsive Design - Site does not support widget
+rrtc_icon_text_widget - Creative Direction - Site does not support widget
+rrtc_icon_text_widget - Coding &amp; Development - Site does not support widget
+
+About Section : 
+
+raratheme_featured_page_widget - Who We Are? - Site does not support widget
+
+Why Choose Us Section : 
+
+Text - Why Choose Us? - Imported
+rrtc_icon_text_widget - Secure Platform - Site does not support widget
+rrtc_icon_text_widget - Easy to Use - Site does not support widget
+rrtc_icon_text_widget - Creative Solutions - Site does not support widget
+rrtc_icon_text_widget - Unlimited Hosting Space - Site does not support widget
+Image - No Title - Imported
+
+Team Section : 
+
+Text - Creative Leaders - Imported
+rrtc_description_widget - No Title - Site does not support widget
+rrtc_description_widget - No Title - Site does not support widget
+rrtc_description_widget - No Title - Site does not support widget
+
+Testimonial Section : 
+
+Text - Clients Testimonials - Imported
+rrtc_testimonial_widget - No Title - Site does not support widget
+rrtc_testimonial_widget - No Title - Site does not support widget
+rrtc_testimonial_widget - No Title - Site does not support widget
+rrtc_testimonial_widget - No Title - Site does not support widget
+
+Stat Counter Section : 
+
+Text - Our Stats - Imported
+raratheme_companion_stat_counter_widget - Completed Project - Site does not support widget
+raratheme_companion_stat_counter_widget - Coffee Cups - Site does not support widget
+raratheme_companion_stat_counter_widget - Valid Customers - Site does not support widget
+raratheme_companion_stat_counter_widget - Award Recognizition - Site does not support widget
+
+Call To Action Section : 
+
+raratheme_companion_cta_widget - Try Premium for free - Site does not support widget
+
+FAQs Section : 
+
+Text - FAQs - Imported
+raratheme_companion_faqs_widget - No Title - Site does not support widget
+
+Clients Section : 
+
+raratheme_client_logo_widget - Client&#039;s Logo Section - Site does not support widget
+
+Footer One : 
+
+Text - Software Company - Imported
+
+Footer Two : 
+
+Navigation Menu - Our Company - Imported
+
+Footer Three : 
+
+raratheme_recent_post - Recent Posts - Site does not support widget
+
+Footer Four : 
+
+rtc_social_links - Subscribe and Follow - Site does not support widget
+newsletterwidgetminimal - Subscribe Newsletter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
